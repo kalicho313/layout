@@ -1,3 +1,27 @@
 body {
-    background-color:aquamarine;
+    background-color: #a3b8c8;
+}
+.box {
+    margin: auto;
+    width: 400px;
+    height: 200px;
+    padding: 10px;
+    border: 5px solid crimson;
+    background-color: white;
+}
+.box1 {
+    margin: auto;
+    width: 400px;
+    height: 200px;
+    padding: 10px;
+    border: 5px solid crimson;
+    background-color: white;
+}
+.box2 {
+    margin: auto;
+    width: 400px;
+    height: 200px;
+    padding: 10px;
+    border: 5px solid crimson;
+    background-color: white;
 }
